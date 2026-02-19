@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varshanth21/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/varshanth21/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/varshanth21/leetcode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/varshanth21/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/varshanth21/leetcode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varshanth21/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/varshanth21/leetcode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/varshanth21/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/varshanth21/leetcode/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
